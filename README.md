@@ -94,4 +94,14 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
+## 🙏 Support This Project
+
+If you found this helpful:
+
+⭐ Star this repo  
+🔁 Share it with your friends  
+📥 Fork or clone to contribute
+
+---
+
 > Built with ❤️ by [Ali Raza](https://github.com/AliRaza711)
